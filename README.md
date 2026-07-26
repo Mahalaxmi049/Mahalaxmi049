@@ -1,155 +1,144 @@
-```{=html}
-<h1 align="center">
-```
-Hi 👋, I'm Mahalaxmi Shanbhag
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-AI Developer • Full Stack Developer • Information Science & Engineering
-Student • Hackathon Enthusiast
-```{=html}
-</h3>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer;Hackathon+Enthusiast;Open+Source+Learner;Always+Building+Something+Awesome+🚀" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=Mahalaxmi049&label=Profile%20Views&style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
+<div align="center">
 
-------------------------------------------------------------------------
+# Hi 👋, I'm Mahalaxmi Shanbhag
+
+### AI Developer • Full Stack Developer • Information Science & Engineering Student • Hackathon Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=4F46E5&center=true&vCenter=true&width=700&lines=Building+AI-powered+Solutions;Backend+Developer;Full+Stack+Web+Developer;Hackathon+Enthusiast;Always+Learning+🚀" />
+
+*"Building technology that creates meaningful real-world impact."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahalaxmishanbhag/)
+[![Devfolio](https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge)](https://devfolio.co/@Mahalaxmi049)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahalaxmi049)
+
+</div>
+
+---
 
 # 💫 About Me
 
-🎓 Information Science & Engineering Student passionate about building
-intelligent software that creates real-world impact.
+🎓 Information Science & Engineering student passionate about developing intelligent software that solves real-world problems.
 
-## 🚀 Interests
+💡 **Areas of Interest**
 
--   🤖 Artificial Intelligence
--   🌐 Full Stack Development
--   ⚙️ Backend Development
--   ☁️ Cloud Computing
--   📊 Machine Learning
--   🔐 Cyber Security
+- 🤖 Artificial Intelligence
+- 🌐 Full Stack Development
+- ⚙️ Backend Development
+- 📊 Machine Learning
+- ☁️ Cloud Computing
+- 🔐 Cyber Security
 
-------------------------------------------------------------------------
+🚀 I enjoy building innovative projects, participating in hackathons, and continuously expanding my technical skills.
 
-# 🌟 Featured Projects
-
-## 🌱 GreenPath
-
-AI-powered sustainable mobility platform promoting eco-friendly
-transportation.
-
-## 🗣️ AWAAZ
-
-Multilingual civic engagement platform for public issue reporting.
-
-## 🚀 Space Science Mission
-
-Interactive educational space exploration project.
-
-## 👩 Women Care
-
-Platform focused on women's safety and healthcare awareness.
-
-## 🏦 EasyBank Web App
-
-Responsive banking application with a modern UI.
-
-## 🕹️ Retro Arcade
-
-Retro-themed gaming website built during a hackathon.
-
-## ✈️ Travel Guide
-
-Travel recommendation and planning application.
-
-## 🛰️ Space Project
-
-Experimental project exploring space-related concepts.
-
-------------------------------------------------------------------------
-
-# 🛠️ Tech Stack
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flask,mysql,git,github,vscode,postman"/>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
+---
 
 # 🏆 Achievements
 
--   🥇 NPTEL Programming in Java --- **Elite + Gold (93%)**
--   🤖 IBM SkillsBuild --- AI Literacy & Future Forward
--   🏅 Active Hackathon Participant
+🥇 **NPTEL (IIT) – Programming in Java**
 
-------------------------------------------------------------------------
+- ⭐ Elite + Gold
+- 📊 Score: **93%**
 
-# 📊 GitHub Stats
+🤖 **IBM SkillsBuild**
 
-```{=html}
+- AI Literacy
+- Future Forward: AI for Innovation
+
+🏅 Active participant in national hackathons focused on AI, sustainability, and social impact.
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
 <p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=Mahalaxmi049&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
 </p>
-```
-```{=html}
+
+### Frameworks & Libraries
+
 <p align="center">
-```
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahalaxmi049&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=react,flask" />
 </p>
-```
-```{=html}
+
+### Tools & Platforms
+
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahalaxmi049&theme=tokyo-night"/>`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 🌐 Connect With Me
+# 🚀 Currently Building
 
--   LinkedIn: https://www.linkedin.com/in/mahalaxmishanbhag/
--   Devfolio: https://devfolio.co/@Mahalaxmi049
+- 🤖 AI-powered Applications
+- ⚙️ Backend Systems using Flask
+- 🌐 Full Stack Web Applications
+- 📈 Machine Learning Projects
+- 🌍 Open Source Contributions
 
-------------------------------------------------------------------------
+---
 
-> **"Turning ideas into impactful software, one project at a time."**
+# 🌟 Featured Projects
 
-```{=html}
-<h3 align="center">
-```
-⭐ Thanks for visiting my profile!
-```{=html}
-</h3>
-```
-```{=html}
+| 🚀 Project | 📌 Description |
+|------------|----------------|
+| 🌱 **GreenPath** | AI-powered sustainable mobility platform |
+| 🗣️ **AWAAZ** | Multilingual civic engagement platform |
+| 🚀 **Space Science Mission** | Interactive educational space exploration project |
+| 👩 **Women Care** | Platform promoting women's safety and healthcare |
+
+> **Explore more projects from my pinned repositories below 👇**
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Python
+- Machine Learning
+- Backend System Design
+- React
+- Cloud Computing
+- Data Structures & Algorithms
+
+---
+
+# 🌐 Let's Connect
+
 <p align="center">
-```
-Always Learning • Always Building • Always Improving 🚀
-```{=html}
-</p>
-```
 
+<a href="https://www.linkedin.com/in/mahalaxmishanbhag/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Mahalaxmi049">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://devfolio.co/@Mahalaxmi049">
+<img src="https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💭 Quote
+
+*"Turning ideas into impactful software, one project at a time."*
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+**Let's build something meaningful together. 🚀**
+
+</div>
