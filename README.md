@@ -20,7 +20,7 @@
 ## 💫 About Me
 
 ```yaml
-name: Mahalaxmi Shanbhag
+name: Mahalaxmi Vishnu Shanbhag
 role: AI Developer • Full Stack Developer • ISE Student
 location: India
 currently_studying: Information Science & Engineering
@@ -162,19 +162,6 @@ Platform promoting women's safety and healthcare
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%">
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/Mahalaxmi049/Mahalaxmi049/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-<!--END_SECTION:snake-->
-
-</div>
-
-> ℹ️ **Setup needed once:** the snake above animates automatically via a free GitHub Action. Add [`Platane/snk`](https://github.com/Platane/snk) as a workflow in this repo (`Mahalaxmi049/Mahalaxmi049`) — it regenerates the SVG daily from your real contribution graph.
-
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📚 Currently Learning
 
