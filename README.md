@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Mahalaxmi Shanbhag</h1>
 
 <h3 align="center">
@@ -201,4 +200,3 @@ A retro-inspired gaming website developed during a hackathon with nostalgic visu
 **Always Learning • Always Building • Always Improving 🚀**
 
 </p>
-```
