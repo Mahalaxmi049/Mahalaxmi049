@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:2962FF&height=220&section=header&text=Mahalaxmi%20Shanbhag&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Hackathon%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:2962FF&height=220&section=header&text=Mahalaxmi%20Vishnu%20Shanbhag&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Hackathon%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2962FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%8C%90;Information+Science+%26+Engineering+Student+%F0%9F%8E%93;Hackathon+Enthusiast+%F0%9F%9A%80;Turning+ideas+into+impactful+software+%F0%9F%92%A1" alt="Typing SVG" />
@@ -162,6 +162,19 @@ Platform promoting women's safety and healthcare
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%">
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/Mahalaxmi049/Mahalaxmi049/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<!--END_SECTION:snake-->
+
+</div>
+
+> ℹ️ **Setup needed once:** the snake above animates automatically via a free GitHub Action. Add [`Platane/snk`](https://github.com/Platane/snk) as a workflow in this repo (`Mahalaxmi049/Mahalaxmi049`) — it regenerates the SVG daily from your real contribution graph.
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📚 Currently Learning
 
