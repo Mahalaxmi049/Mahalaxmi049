@@ -153,13 +153,6 @@ Platform promoting women's safety and healthcare
 
 </div>
 
-<details>
-<summary>🏆 GitHub Trophies (click to expand)</summary>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mahalaxmi049&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</div>
-</details>
-
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%">
 
 🐍 Contribution Snake
