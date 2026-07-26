@@ -4,7 +4,6 @@
 
 ### AI Developer • Full Stack Developer • Information Science & Engineering Student • Hackathon Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=4F46E5&center=true&vCenter=true&width=700&lines=Building+AI-powered+Solutions;Backend+Developer;Full+Stack+Web+Developer;Hackathon+Enthusiast;Always+Learning+🚀" />
 
 *"Building technology that creates meaningful real-world impact."*
 
