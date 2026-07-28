@@ -144,11 +144,6 @@ Platform promoting women's safety and healthcare
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahalaxmi049&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahalaxmi049&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahalaxmi049&theme=tokyonight&hide_border=true&background=0D1117" width="70%"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahalaxmi049&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/>
 
 </div>
