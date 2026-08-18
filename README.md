@@ -149,12 +149,6 @@ Platform promoting women's safety and healthcare
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%">
-<!--
-🐍 Contribution Snake
-<div align="center"> <!--START_SECTION:snake--> <img src="https://raw.githubusercontent.com/Mahalaxmi049/Mahalaxmi049/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/> <!--END_SECTION:snake--> </div>
-
--->
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📚 Currently Learning
 
