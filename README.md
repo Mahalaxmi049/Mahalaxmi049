@@ -140,16 +140,6 @@ Platform promoting women's safety and healthcare
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%">
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahalaxmi049&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%">
-
 ## 📚 Currently Learning
 
 <p align="center">
